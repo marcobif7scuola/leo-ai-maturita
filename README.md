@@ -56,7 +56,7 @@ L’applicazione è distribuita tramite Streamlit Community Cloud ed è accessib
 ---
 
 ## 👨‍💻 Autore
-Progetto sviluppato da [TUO NOME] come elaborato per l’esame di maturità.
+Progetto sviluppato da: Marco Bifulco. Come elaborato per l’esame di maturità.
 
 ---
 
